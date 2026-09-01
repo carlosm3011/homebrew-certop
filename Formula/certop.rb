@@ -1,8 +1,8 @@
 class Certop < Formula
   desc "Visualizar estado de certificados TLS en una flota de servidores"
   homepage "https://github.com/carlosm3011/certop"
-  url "https://github.com/carlosm3011/certop/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "48c4d9342bfe70ae06eef24ae2952e0280eadac94cfb000866147d169c5032c3"
+  url "https://github.com/carlosm3011/certop/archive/refs/tags/v1.3.1.tar.gz"
+  sha256 "b91cb7bc0bd8fd094b964be1c6af3703bc87d9b80af019584f6134750337cfdc"
   license "BSD-2-Clause"
   head "https://github.com/carlosm3011/certop.git", branch: "main"
 
